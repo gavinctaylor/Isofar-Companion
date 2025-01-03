@@ -118,16 +118,17 @@ custom_minimum_size = Vector2(0, 30)
 layout_mode = 2
 size_flags_vertical = 3
 bbcode_enabled = true
-text = "[center][color=gray]Attack Target[/color]
-[color=yellow]Mist[/color] 2 AP Attack +1
-additional[/center]	"
+text = "[center][color=yellow]Confusing Aura[/color]
+While this card is active, Guard Ability Cards may not be flipped by any means[/center]	"
 fit_content = true
 scroll_active = false
 
 [node name="HSeparator8" type="HSeparator" parent="Panel/MarginContainer/VBoxContainer/VBoxContainer"]
+visible = false
 layout_mode = 2
 
 [node name="AICardDetails2" type="RichTextLabel" parent="Panel/MarginContainer/VBoxContainer/VBoxContainer"]
+visible = false
 custom_minimum_size = Vector2(0, 30)
 layout_mode = 2
 size_flags_vertical = 3
@@ -138,9 +139,11 @@ fit_content = true
 scroll_active = false
 
 [node name="HSeparator3" type="HSeparator" parent="Panel/MarginContainer/VBoxContainer/VBoxContainer"]
+visible = false
 layout_mode = 2
 
 [node name="AICardDetails3" type="RichTextLabel" parent="Panel/MarginContainer/VBoxContainer/VBoxContainer"]
+visible = false
 custom_minimum_size = Vector2(0, 30)
 layout_mode = 2
 size_flags_vertical = 3
