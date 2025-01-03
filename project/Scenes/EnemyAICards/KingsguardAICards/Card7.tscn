@@ -148,7 +148,7 @@ layout_mode = 2
 size_flags_vertical = 3
 bbcode_enabled = true
 text = "[center][color=yellow]Tower Protection[/color] 1 AP
-Gain2 Blue Cubes until start of next turn[/center]	"
+Gain 2 Blue Cubes until start of next turn[/center]	"
 fit_content = true
 scroll_active = false
 

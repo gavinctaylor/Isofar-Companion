@@ -108,7 +108,7 @@ size_flags_vertical = 3
 bbcode_enabled = true
 text = "[center][i]If targets have < 10 Health,[/i]
 [color=yellow]Bloodscent[/color] 1 AP
-Addanother Dusk Stalker to battle equal to highest rarity Dusk Stalker in battle[/center]	"
+Add another Dusk Stalker to battle equal to highest rarity Dusk Stalker in battle[/center]	"
 fit_content = true
 scroll_active = false
 

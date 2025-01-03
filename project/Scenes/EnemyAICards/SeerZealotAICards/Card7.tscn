@@ -148,8 +148,7 @@ layout_mode = 2
 size_flags_vertical = 3
 bbcode_enabled = true
 text = "[center][i]If Health is at starting value[/i]
-[color=yellow]Rage[/color] 2 AP Gain 1 Attack
-additional[/center]	"
+[color=yellow]Rage[/color] 2 AP Gain 1 ATK[/center]	"
 fit_content = true
 scroll_active = false
 

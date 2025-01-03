@@ -134,7 +134,7 @@ custom_minimum_size = Vector2(0, 30)
 layout_mode = 2
 size_flags_vertical = 3
 bbcode_enabled = true
-text = "[center][i]If target has no shiel chips active,[/i]
+text = "[center][i]If target has no shield chips active,[/i]
 [color=yellow]Grab[/color] 1 AP
 Exhaust 1 AP from target[/center]	"
 fit_content = true

@@ -148,7 +148,7 @@ layout_mode = 2
 size_flags_vertical = 3
 bbcode_enabled = true
 text = "[center][color=yellow]Growth[/color] 1 AP
-Remove all active Poison CHips from target and add to this enemy. Metal Eater heals Health equal to Poison Chips removed[/center]	"
+Remove all active Poison Chips from target and add to this enemy. Metal Eater heals Health equal to Poison Chips removed[/center]	"
 fit_content = true
 scroll_active = false
 

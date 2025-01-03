@@ -147,8 +147,9 @@ custom_minimum_size = Vector2(0, 30)
 layout_mode = 2
 size_flags_vertical = 3
 bbcode_enabled = true
-text = "[center][color=yellow]Pride of Mir[/color] 1 AP Gain 1 Green Cube
-Gain 1 Strengthen Chip and draw 1 card[/center]	"
+text = "[center][color=yellow]Pride of Mir[/color] 1 AP
+Gain 1 Green Cube
+Gain 1 ATK and draw 1 card[/center]	"
 fit_content = true
 scroll_active = false
 

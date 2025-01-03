@@ -106,7 +106,7 @@ layout_mode = 2
 size_flags_vertical = 3
 bbcode_enabled = true
 text = "[center][color=gray]Attack Target[/color]
-[i]Add Attack +1 for this attach for each other 'Raider' in battle.[/i]
+[i]Add ATK +1 for this attack for each other 'Raider' in battle.[/i]
 [color=yellow]Spearline[/color] 1 AP Attack +2[/center]	"
 fit_content = true
 scroll_active = false

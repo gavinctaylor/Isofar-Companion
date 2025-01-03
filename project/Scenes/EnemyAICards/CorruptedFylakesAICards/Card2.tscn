@@ -136,7 +136,7 @@ layout_mode = 2
 size_flags_vertical = 3
 bbcode_enabled = true
 text = "[center][color=yellow]Taunt[/color] 2 AP
-While this card is active, the guard with Aggro must go firt in the next round[/center]	"
+While this card is active, the guard with Aggro must go first in the next round[/center]	"
 fit_content = true
 scroll_active = false
 

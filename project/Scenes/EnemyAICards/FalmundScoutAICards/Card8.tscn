@@ -138,8 +138,7 @@ custom_minimum_size = Vector2(0, 30)
 layout_mode = 2
 size_flags_vertical = 3
 bbcode_enabled = true
-text = "[center][color=yellow]Focus[/color] Gain 2 Green Cubes
-additional[/center]	"
+text = "[center][color=yellow]Focus[/color] Gain 2 Green Cubes[/center]	"
 fit_content = true
 scroll_active = false
 

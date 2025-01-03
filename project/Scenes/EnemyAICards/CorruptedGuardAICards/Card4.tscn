@@ -138,7 +138,7 @@ layout_mode = 2
 size_flags_vertical = 3
 bbcode_enabled = true
 text = "[center][color=yellow]Empower[/color] 2 AP
-Gain 1 Strengthen Chip and heal 1 Health[/center]	"
+Gain 1 ATK and heal 1 Health[/center]	"
 fit_content = true
 scroll_active = false
 

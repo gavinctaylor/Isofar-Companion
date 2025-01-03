@@ -99,7 +99,7 @@ layout_mode = 2
 size_flags_vertical = 3
 bbcode_enabled = true
 text = "[center][color=yellow]Sense Danger[/color] 1 AP
-If any Guard Ability Card is active using a sword chip, gain 1 Bolster.[/center]	"
+If any Guard Ability Card is active using a sword chip, gain 1 DEF*to be confirmed[/center]	"
 fit_content = true
 scroll_active = false
 

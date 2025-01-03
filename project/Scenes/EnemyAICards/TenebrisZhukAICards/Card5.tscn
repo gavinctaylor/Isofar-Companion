@@ -146,7 +146,7 @@ layout_mode = 2
 size_flags_vertical = 3
 bbcode_enabled = true
 text = "[center][color=yellow]Corrupted Shell[/color] 2 AP
-Gin 3 Blue Cubes until start of next turn, and heal 5 Health[/center]	"
+Gain 3 Blue Cubes until start of next turn, and heal 5 Health[/center]	"
 fit_content = true
 scroll_active = false
 
@@ -159,7 +159,7 @@ layout_mode = 2
 size_flags_vertical = 3
 bbcode_enabled = true
 text = "[center][i]If card is active at start of next turn, 
-gain 1 Attack[/i][/center]"
+gain 1 ATK[/i][/center]"
 fit_content = true
 scroll_active = false
 

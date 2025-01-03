@@ -139,7 +139,6 @@ fit_content = true
 scroll_active = false
 
 [node name="HSeparator8" type="HSeparator" parent="Panel/MarginContainer/VBoxContainer/VBoxContainer"]
-visible = false
 layout_mode = 2
 
 [node name="AICardDetails2" type="RichTextLabel" parent="Panel/MarginContainer/VBoxContainer/VBoxContainer"]

@@ -137,7 +137,7 @@ layout_mode = 2
 size_flags_vertical = 3
 bbcode_enabled = true
 text = "[center][color=yellow]Patient Hunter[/color] 1 AP
-Gain 1 Strengthen[/center]	"
+Gain 1 ATK[/center]	"
 fit_content = true
 scroll_active = false
 
@@ -150,7 +150,7 @@ layout_mode = 2
 size_flags_vertical = 3
 bbcode_enabled = true
 text = "[center][color=yellow]Spined Defense[/color]
-[i]If ttacked while this card is actove, attacker loses 2 Health. Effect occurs after each attack[/i][/center]"
+[i]If ttacked while this card is active, attacker loses 2 Health. Effect occurs after each attack[/i][/center]"
 fit_content = true
 scroll_active = false
 

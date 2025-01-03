@@ -140,7 +140,7 @@ bbcode_enabled = true
 text = "[center][color=yellow]Blessing[/color] 0 AP
 Gain 2 Blue Cubes 
 until start of next turn, 
-and gain 1 Attack[/center]	"
+and gain 1 ATK[/center]	"
 fit_content = true
 scroll_active = false
 

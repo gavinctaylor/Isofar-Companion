@@ -160,8 +160,8 @@ custom_minimum_size = Vector2(0, 30)
 layout_mode = 2
 size_flags_vertical = 3
 bbcode_enabled = true
-text = "[center]I[i]If another 'Soldeier' is in battle[/i]
-Gain 1 Attack[/center]"
+text = "[center][i]If another 'Soldier' is in battle[/i]
+Gain 1 ATK[/center]"
 fit_content = true
 scroll_active = false
 

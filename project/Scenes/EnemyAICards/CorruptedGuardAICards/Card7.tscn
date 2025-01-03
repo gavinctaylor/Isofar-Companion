@@ -117,7 +117,7 @@ size_flags_vertical = 3
 bbcode_enabled = true
 text = "[center][color=gray]Attack Target[/color]
 [color=yellow]Herald of Tenebris[/color] 2 AP Attack +4
-Add 1 fear chip for each 'Guard' in batle to target's bag[/center]	"
+Add 1 fear chip for each 'Guard' in battle to target's bag[/center]	"
 fit_content = true
 scroll_active = false
 

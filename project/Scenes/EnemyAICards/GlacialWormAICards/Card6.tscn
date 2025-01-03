@@ -129,6 +129,7 @@ layout_mode = 2
 size_flags_vertical = 3
 bbcode_enabled = true
 text = "[center][i]If[/i] [color=yellow]'Burrow'[/color] [i]ability was not active,[/i]
+[color=gray]Attack Target[/color]
 [color=yellow]Charge Forward[/color] 2 AP Attack +2[/center]	"
 fit_content = true
 scroll_active = false

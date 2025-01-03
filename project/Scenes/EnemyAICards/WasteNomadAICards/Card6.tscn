@@ -161,7 +161,7 @@ bbcode_enabled = true
 text = "[center][color=yellow]Drop Bag[/color]
 While this card is active,
 once this enemy is defeated
-all other allies gain 2 Attack[/center]"
+all other allies gain 2 ATK[/center]"
 fit_content = true
 scroll_active = false
 

@@ -98,7 +98,7 @@ layout_mode = 2
 size_flags_vertical = 3
 bbcode_enabled = true
 text = "[center][color=yellow]Harden Shell[/color] 2 AP
-Gain 3 Blue cubes until start of next tuen, and heal 3 Health.[/center]	"
+Gain 3 Blue cubes until start of next turn, and heal 3 Health.[/center]	"
 fit_content = true
 scroll_active = false
 

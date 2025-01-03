@@ -116,8 +116,7 @@ layout_mode = 2
 size_flags_vertical = 3
 bbcode_enabled = true
 text = "[center][color=gray]Attack Target[/color]
-[color=yellow]Ending Blow[/color] 3 AP Attack +4
-additional[/center]	"
+[color=yellow]Ending Blow[/color] 3 AP Attack +4[/center]	"
 fit_content = true
 scroll_active = false
 

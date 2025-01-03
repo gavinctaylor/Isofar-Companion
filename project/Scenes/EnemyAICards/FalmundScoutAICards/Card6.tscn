@@ -116,7 +116,7 @@ bbcode_enabled = true
 text = "[center][color=gray]Attack Target[/color]
 [color=yellow]Leg Shot[/color] 1 AP Attack +2
 [i]If attack deals damage,[/i]
-add 1 Weaken Chip to tahet's bag[/center]	"
+add 1 Weaken Chip to target's bag[/center]	"
 fit_content = true
 scroll_active = false
 

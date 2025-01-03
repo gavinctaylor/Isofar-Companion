@@ -157,7 +157,7 @@ layout_mode = 2
 size_flags_vertical = 3
 bbcode_enabled = true
 text = "[center][color=yellow]Iron Fist[/color] 1 AP
-Gain 1 Attack[/center]	"
+Gain 1 ATK[/center]	"
 fit_content = true
 scroll_active = false
 

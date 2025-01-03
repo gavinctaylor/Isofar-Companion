@@ -116,8 +116,7 @@ layout_mode = 2
 size_flags_vertical = 3
 bbcode_enabled = true
 text = "[center][color=gray]Attack Target[/color]
-[color=yellow]Crushing Bite[/color] 2 AP Attack +3
-additional[/center]	"
+[color=yellow]Crushing Bite[/color] 2 AP Attack +3[/center]	"
 fit_content = true
 scroll_active = false
 

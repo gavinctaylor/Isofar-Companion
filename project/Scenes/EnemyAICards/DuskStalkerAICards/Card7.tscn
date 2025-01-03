@@ -117,7 +117,8 @@ size_flags_vertical = 3
 bbcode_enabled = true
 text = "[center][color=gray]Attack Target[/color]
 [color=yellow]Leeching Bite[/color] 2 AP Attack +3
-For each remaining AP after attack, heal Dusk Stalker 2 Health[/center]	"
+For each remaining AP after attack,
+heal Dusk Stalker 2 Health[/center]	"
 fit_content = true
 scroll_active = false
 

@@ -102,10 +102,6 @@ additional[/center]	"
 fit_content = true
 scroll_active = false
 
-[node name="HSeparator9" type="HSeparator" parent="Panel/MarginContainer/VBoxContainer/VBoxContainer"]
-visible = false
-layout_mode = 2
-
 [node name="AICardDetails11" type="RichTextLabel" parent="Panel/MarginContainer/VBoxContainer/VBoxContainer"]
 visible = false
 custom_minimum_size = Vector2(0, 30)
@@ -127,7 +123,7 @@ layout_mode = 2
 size_flags_vertical = 3
 bbcode_enabled = true
 text = "[center][color=yellow]Defensive Maneuvers[/color] 0 AP
-If possible, swap Slot position with lowest Health all. Allies may not activate more than once per round.[/center]	"
+If possible, swap Slot position with lowest Health ally. Allies may not activate more than once per round.[/center]	"
 fit_content = true
 scroll_active = false
 
@@ -144,6 +140,9 @@ All Enemies[/center]
 "
 fit_content = true
 scroll_active = false
+
+[node name="HSeparator9" type="HSeparator" parent="Panel/MarginContainer/VBoxContainer/VBoxContainer"]
+layout_mode = 2
 
 [node name="AICardDetails3" type="RichTextLabel" parent="Panel/MarginContainer/VBoxContainer/VBoxContainer"]
 custom_minimum_size = Vector2(0, 30)

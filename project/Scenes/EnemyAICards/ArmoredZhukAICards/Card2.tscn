@@ -99,7 +99,7 @@ size_flags_vertical = 3
 bbcode_enabled = true
 text = "[center][color=gray]Attack Target[/color]
 [center][color=yellow]Rumble[/color] 1 AP Attack +1
-Add 1Break chip to target's bag [/center]	"
+Add 1 Break chip to target's bag [/center]	"
 fit_content = true
 scroll_active = false
 

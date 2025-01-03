@@ -119,8 +119,7 @@ layout_mode = 2
 size_flags_vertical = 3
 bbcode_enabled = true
 text = "[center][color=gray]Attack Target[/color]
-[color=yellow]Cross Strike[/color] 1 AP Attack +2
-additional[/center]	"
+[color=yellow]Cross Strike[/color] 1 AP Attack +2[/center]	"
 fit_content = true
 scroll_active = false
 

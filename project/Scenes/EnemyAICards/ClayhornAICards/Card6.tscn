@@ -121,10 +121,6 @@ additional[/center]	"
 fit_content = true
 scroll_active = false
 
-[node name="HSeparator9" type="HSeparator" parent="Panel/MarginContainer/VBoxContainer/VBoxContainer"]
-visible = false
-layout_mode = 2
-
 [node name="AICardDetails11" type="RichTextLabel" parent="Panel/MarginContainer/VBoxContainer/VBoxContainer"]
 visible = false
 custom_minimum_size = Vector2(0, 30)
@@ -164,12 +160,16 @@ Self[/center]
 fit_content = true
 scroll_active = false
 
+[node name="HSeparator9" type="HSeparator" parent="Panel/MarginContainer/VBoxContainer/VBoxContainer"]
+layout_mode = 2
+
 [node name="AICardDetails3" type="RichTextLabel" parent="Panel/MarginContainer/VBoxContainer/VBoxContainer"]
 custom_minimum_size = Vector2(0, 30)
 layout_mode = 2
 size_flags_vertical = 3
 bbcode_enabled = true
-text = "[center][color=yellow]Regenerate[/color] 1 AP Heal 2 Health.[/center]"
+text = "[center][color=yellow]Regenerate[/color] 1 AP 
+Heal 2 Health.[/center]"
 fit_content = true
 scroll_active = false
 
